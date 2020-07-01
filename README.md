@@ -1,2 +1,2 @@
-# Selection Sort (Using Ar
+# Selection Sort (Using Arra
 Selection Sort - Using Array
