@@ -1,2 +1,2 @@
-# Selection Sort (U
+# Selection Sort (Us
 Selection Sort - Using Array
